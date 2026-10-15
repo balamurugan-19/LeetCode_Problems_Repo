@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/balamurugan-19/LeetCode_Problems_Repo/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/balamurugan-19/LeetCode_Problems_Repo/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1108-defanging-an-ip-address](https://github.com/balamurugan-19/LeetCode_Problems_Repo/tree/master/1108-defanging-an-ip-address) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/balamurugan-19/LeetCode_Problems_Repo/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
