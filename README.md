@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/balamurugan-19/LeetCode_Problems_Repo/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/balamurugan-19/LeetCode_Problems_Repo/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/balamurugan-19/LeetCode_Problems_Repo/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/balamurugan-19/LeetCode_Problems_Repo/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/balamurugan-19/LeetCode_Problems_Repo/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -18,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/balamurugan-19/LeetCode_Problems_Repo/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/balamurugan-19/LeetCode_Problems_Repo/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
@@ -34,4 +37,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/balamurugan-19/LeetCode_Problems_Repo/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/balamurugan-19/LeetCode_Problems_Repo/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/balamurugan-19/LeetCode_Problems_Repo/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
