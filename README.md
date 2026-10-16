@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/balamurugan-19/LeetCode_Problems_Repo/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/balamurugan-19/LeetCode_Problems_Repo/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/balamurugan-19/LeetCode_Problems_Repo/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/balamurugan-19/LeetCode_Problems_Repo/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/balamurugan-19/LeetCode_Problems_Repo/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/balamurugan-19/LeetCode_Problems_Repo/tree/master/0349-intersection-of-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/balamurugan-19/LeetCode_Problems_Repo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/balamurugan-19/LeetCode_Problems_Repo/tree/master/0242-valid-anagram) |
 | [1108-defanging-an-ip-address](https://github.com/balamurugan-19/LeetCode_Problems_Repo/tree/master/1108-defanging-an-ip-address) |
 | [1816-truncate-sentence](https://github.com/balamurugan-19/LeetCode_Problems_Repo/tree/master/1816-truncate-sentence) |
 ## Two Pointers
