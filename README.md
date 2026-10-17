@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/balamurugan-19/LeetCode_Problems_Repo/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/balamurugan-19/LeetCode_Problems_Repo/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/balamurugan-19/LeetCode_Problems_Repo/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/balamurugan-19/LeetCode_Problems_Repo/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/balamurugan-19/LeetCode_Problems_Repo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1816-truncate-sentence](https://github.com/balamurugan-19/LeetCode_Problems_Repo/tree/master/1816-truncate-sentence) |
 ## Hash Table
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/balamurugan-19/LeetCode_Problems_Repo/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/balamurugan-19/LeetCode_Problems_Repo/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/balamurugan-19/LeetCode_Problems_Repo/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/balamurugan-19/LeetCode_Problems_Repo/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
