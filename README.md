@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/balamurugan-19/LeetCode_Problems_Repo/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/balamurugan-19/LeetCode_Problems_Repo/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0566-reshape-the-matrix](https://github.com/balamurugan-19/LeetCode_Problems_Repo/tree/master/0566-reshape-the-matrix) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/balamurugan-19/LeetCode_Problems_Repo/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/balamurugan-19/LeetCode_Problems_Repo/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/balamurugan-19/LeetCode_Problems_Repo/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/balamurugan-19/LeetCode_Problems_Repo/tree/master/0867-transpose-matrix) |
